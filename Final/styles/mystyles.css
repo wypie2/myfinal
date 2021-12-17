@@ -1,0 +1,25 @@
+
+/* yeah this is for the cool kids*/
+
+ul{ 
+    color:navy;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    }
+    header{
+        color:darkgrey;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center;
+    }
+    a:hover{
+        color:lime;
+    }
+    .post-title{
+        color:blue;
+    }
+
+    footer{
+        text-align: center;
+        border-top: darkgrey 2px;
+        height: 50px;
+    }
